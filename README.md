@@ -1,4 +1,4 @@
-### Hellow World! 👋
+### Hello World! 👋
 
 **I'm Sangmin Lee from South Korea**
 
