@@ -2,9 +2,6 @@
 
 **I'm Sangmin Lee from South Korea**
 
-- 🤔 I'm interested in Backend Development
-- 👯 I’m looking to collaborate with iOS/Andorid devs
-
 [![image](https://user-images.githubusercontent.com/68796085/122099954-9145b380-ce4d-11eb-833c-72ea11106943.png)](mailto:sangminlee7648@gmail.com)
 
 
